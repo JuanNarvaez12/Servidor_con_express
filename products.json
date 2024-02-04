@@ -1,0 +1,5 @@
+[{"title":"Arroz","description":"Grano","price":2500,"thumbnail":"sin imagen","stock":45,"id":1,"code":"29b1e2edf1"},
+{"title":"Lentejas","description":"Grano","price":3000,"thumbnail":"sin imagen","stock":32,"id":1,"code":"c0e9529e4c"},
+{"title":"Frijol","description":"Grano","price":4500,"thumbnail":"sin imagen","stock":20,"id":1,"code":"d3edbaf186"},
+{"title":"garbanzo","description":"Grano","price":5000,"thumbnail":"sin imagen","stock":87,"id":1,"code":"acf4b5016c"},
+{"title":"Papa","description":"tuberculo","price":1000,"thumbnail":"sin imagen","stock":10,"id":1,"code":"b01920551d"}]
